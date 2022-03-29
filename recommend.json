@@ -1,96 +1,36 @@
 {
   "data": [
     {
-      "title": "24小时轮播推荐",
+      "title": "电影轮播",
       "list": [
         {
-          "name": "全新影片",
+          "name": "无敌放映厅",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
+          "url": "http://tx2play1.douyucdn.cn/live/10240553rLYDUiHc.xs",
           "type": "app://playDetail"
         },
         {
-          "name": "周星驰",
+          "name": "恐怖影厅",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=",
+          "url": "http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs",
           "type": "app://playDetail"
         },
         {
-          "name": "林正英",
+          "name": "经典喜剧专场",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/218859r7wrRDulDC.flv?uuid=",
+          "url": "http://tx2play1.douyucdn.cn/live/9650887rIvtx6Y9r.xs",
           "type": "app://playDetail"
         },
         {
-          "name": "华语经典",
+          "name": "年度最佳电影",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=",
+          "url": "http://tx2play1.douyucdn.cn/live/10395991rX4MRO7z.xs",
           "type": "app://playDetail"
         },
         {
-          "name": "科幻电影",
+          "name": "24小时看不停",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/4332rdOzEliVxLwT.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "科幻动作",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/252802ryboKvsRTt.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "欧美大片",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/2793084rFV7D4nC0.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "极致蓝光",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/747764rfA3HOpaVl.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "万万没想到",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/9220456rRnfjxDd4.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "五分钟一部电影",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/2758565rTRfItrI5.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "动漫解说",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/9527700rGSdHgPo4.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "新三国",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/276200rMNYH0Wmj1.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "猫和老鼠",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/7528160rzWwPUO7g.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "Running Man",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=",
-          "type": "app://playDetail"
-        },
-        {
-          "name": "韩国女团",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=",
+          "url": "http://tx2play1.douyucdn.cn/live/8985415rkohgBRsS.xs",
           "type": "app://playDetail"
         }
       ]

@@ -77,32 +77,8 @@ http://hiradio.win/yqdtv.php?id=073
 http://hiradio.win/yqdtv.php?id=133
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
 http://hiradio.win/yqdtv.php?id=145
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png",海南卫视
-http://v.mp.haue.edu.cn/hls/lyhd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
-http://v.mp.haue.edu.cn/hls/gzhd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
-http://v.mp.haue.edu.cn/hls/xmtv.m3u8
-#EXTINF:-1 group-title="卫视",中国教育
-http://v.mp.haue.edu.cn/hls/cetv1hd.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png",金鹰卡通
-http://v.mp.haue.edu.cn/hls/jykttv.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png",卡酷少儿
-http://v.mp.haue.edu.cn/hls/btv10hd.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png",哈哈炫动
 http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="境外",凤凰电影
-http://v.mp.haue.edu.cn/hls/fhdy.m3u8
-#EXTINF:-1 group-title="境外",Discovery
-http://v.mp.haue.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 group-title="境外",国家地理
-http://v.mp.haue.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 group-title="境外" tvg-logo="https://gitee.com/radioer/tvradiologo/raw/master/v.png",【V】
-http://v.mp.haue.edu.cn/hls/channelv.m3u8
-#EXTINF:-1 group-title="境外",星空卫视
-http://v.mp.haue.edu.cn/hls/startv.m3u8
-#EXTINF:-1 group-title="境外",Star Sports
-http://v.mp.haue.edu.cn/hls/starsports.m3u8
 #EXTINF:-1 group-title="境外" tvg-logo="https://television-live.com/uploads/posts/2019-06/1561572071_lotus-tv-macau.png",莲花卫视
 http://hiradio.win/lotus.php
 #EXTINF:-1 group-title="境外",V2BEAT
@@ -185,8 +161,6 @@ http://hiradio.win/yqdtv.php?id=094
 http://hiradio.win/yqdtv.php?id=088
 #EXTINF:-1 group-title="数字" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg",文物宝库
 http://hiradio.win/dxxw.php?id=155
-#EXTINF:-1 group-title="数字",新动漫
-http://v.mp.haue.edu.cn/hls/xdmtv.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://cctbn.com/images/cctbn_hn.png",中国交通频道(湖北)
 https://tv.lanjingfm.com/cctbn/hubei.m3u8
 #EXTINF:-1 group-title="数字" tvg-logo="https://cctbn.com/images/cctbn_hn.png",中国交通频道(吉林)
@@ -199,18 +173,6 @@ http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 #EXTINF:-1 group-title="地方",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png",北京新闻
-http://v.mp.haue.edu.cn/hls/btv9hd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png",北京影视
-http://v.mp.haue.edu.cn/hls/btv4hd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png",北京文艺
-http://v.mp.haue.edu.cn/hls/btv2hd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png",北京财经
-http://v.mp.haue.edu.cn/hls/btv5hd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png",北京生活
-http://v.mp.haue.edu.cn/hls/btv7hd.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV青年.png",北京青年
-http://v.mp.haue.edu.cn/hls/btv8hd.m3u8
 #EXTINF:-1 group-title="地方",济铁电视
 https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
 #EXTINF:-1 group-title="地方",湖南经视
@@ -411,16 +373,6 @@ http://hiradio.win/cdtv.php?id=45
 http://hiradio.win/cdtv.php?id=5
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png",成都少儿
 http://hiradio.win/cdtv.php?id=6
-#EXTINF:-1 group-title="地方",内蒙古文体娱乐
-http://live10.m2oplus.nmtv.cn/wtyl/hd/live.m3u8
-#EXTINF:-1 group-title="地方",内蒙古农牧频道
-http://live11.m2oplus.nmtv.cn/nmpd/hd/live.m3u8
-#EXTINF:-1 group-title="地方",内蒙古新闻综合
-http://live10.m2oplus.nmtv.cn/xwzh/hd/live.m3u8
-#EXTINF:-1 group-title="地方",内蒙古经济生活
-http://live10.m2oplus.nmtv.cn/jjsh/hd/live.m3u8
-#EXTINF:-1 group-title="地方",内蒙古少儿
-http://live11.m2oplus.nmtv.cn/sepd/hd/live.m3u8
 #EXTINF:-1 group-title="地方",江西都市
 http://hiradio.win/jxtv.php?id=jxtv2
 #EXTINF:-1 group-title="地方",江西经济生活

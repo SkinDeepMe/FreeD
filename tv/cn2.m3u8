@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Undefined",CCTV+ 1 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",湖南卫视 (576p)
+http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",湖南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+#EXTINF:-1 group-title="Undefined",湖南卫视 (1080p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",CCTV-2财经 (1080p)
@@ -201,9 +203,3 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
 #EXTINF:-1 group-title="Undefined",湖北卫视 (1080p)
 http://117.169.120.140:8080/live/hdhubeistv/.m3u8
-#EXTINF:-1 group-title="Undefined",湖南卫视 (576p)
-http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",湖南卫视 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 group-title="Undefined",湖南卫视 (1080p)
-http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
