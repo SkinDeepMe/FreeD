@@ -123,13 +123,13 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"div.fed-col-xs12.fed-col-sm8.fed-col-md9",
+                        "listCss":"div.fed-play-item.fed-drop-item.fed-visible",
                         "isMultiList":true,
-                        "listCssMulti":"dl > dd",
+                        "listCssMulti":"li.fed-padding.fed-col-xs6.fed-col-sm4",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"div.fed-part-case",
+                        "mainCss":"div.fed-drop-boxs.fed-drop-btms.fed-matp-v",
                         "mainIndex":0
                     },
                     "nav":{
