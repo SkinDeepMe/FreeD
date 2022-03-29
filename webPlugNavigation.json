@@ -369,14 +369,14 @@
       "name": "大师兄影视(规则)",
       "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/72ba3149-cf88-4756-ac34-f3d51844118c?x-oss-process=image/resize,w_200/format,webp",
       "type": "webPlug",
-      "ads": "大师兄影视",
+      "ads": "",
       "webUrl": "https://dsxys.com/",
       "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://dsxys.com/sb/ke7nhZe3c1{kw}-.html",
         "nav_url": "https://dsxys.com/type/navCate-navPage.html",
-        "web_name": "",
+        "web_name": "大师兄影视",
 		"search":false,
         "navHtml": {
           "name": [
