@@ -462,7 +462,7 @@
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "",
+        "search_url": "https://www.tkys.tv/vodsearch.html?wd={kw}",
         "nav_url": "https://www.tkys.tv/vodtype/navCate-navPage.html",
         "web_name": "天空影视",
 		"search":true,
@@ -518,7 +518,7 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
@@ -528,7 +528,7 @@
             "isImgAttr": true,
             "isNameAttr": true,
             "isUrlAttr": true,
-            "mainCss": "ul.hl-one-list",
+            "mainCss": "ul.myui-vodlist__media",
             "mainListIndex": 0,
             "nameAttr": "title",
             "nameCss": "a",
@@ -552,7 +552,7 @@
         "webOpen": false,
         "click": true,
         "webPlus": {
-          "search_url": "https://www.qianoo.cn/?s={kw}",
+          "search_url": "https://www.qianoo.cn/xssearch?q={kw}",
           "nav_url": "https://www.qianoo.cn/navCate/page/navPage",
           "cate_url": "",
           "web_name": "厂长资源",
