@@ -134,7 +134,7 @@
                     },
                     "nav":{
                         "descAttr":"",
-                        "descCss":"span.fed-list-desc.fed-font-xii.fed-visible.fed-part-eone.fed-text-muted",
+                        "descCss":"span.fed-list-remarks.fed-font-xii.fed-text-white.fed-text-center",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
@@ -156,7 +156,7 @@
                     },
                     "search":{
                         "descAttr":"",
-                        "descCss":"div.fed-part-esan",
+                        "descCss":"span.fed-list-remarks.fed-font-xii.fed-text-white.fed-text-center",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
@@ -287,7 +287,7 @@
         "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
         "web_name": "555电影",
-		"search":true,
+		"search":false,
         "navHtml": {
           "name": [
             "电影",
@@ -430,24 +430,24 @@
           },
           "search": {
             "descAttr": "",
-            "descCss": "span.hl-lc-1.remarks",
+            "descCss": "span.pic-text.text-right",
             "descIndex": 0,
             "hasUrlPrefix": false,
             "imgAttr": "data-original",
-            "imgCss": "a",
+            "imgCss": "a.myui-vodlist__thumb.lazyload",
             "imgIndex": 0,
             "isDescAttr": false,
             "isImgAttr": true,
-            "isNameAttr": true,
+            "isNameAttr": false,
             "isUrlAttr": true,
-            "mainCss": "ul.hl-one-list",
+            "mainCss": "ul.myui-vodlist__media.clearfix",
             "mainListIndex": 0,
-            "nameAttr": "title",
-            "nameCss": "a",
+            "nameAttr": "",
+            "nameCss": "a.searchkey",
             "nameIndex": 0,
-            "searchListCss": "li",
+            "searchListCss": "li.clearfix",
             "urlAttr": "href",
-            "urlCss": "a",
+            "urlCss": "a.myui-vodlist__thumb.lazyload",
             "urlIndex": 0
           }
         }
