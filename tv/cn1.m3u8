@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="地方",河南都市
-http://hiradio.win/dxxw.php?id=141
-#EXTINF:-1 group-title="地方",河南电视剧
-http://hiradio.win/dxxw.php?id=148
-#EXTINF:-1 group-title="地方",河南民生
-http://hiradio.win/dxxw.php?id=146
-#EXTINF:-1 group-title="地方",河南法治
-http://hiradio.win/dxxw.php?id=147
-#EXTINF:-1 group-title="地方",河南新闻
-http://hiradio.win/dxxw.php?id=149
-#EXTINF:-1 group-title="地方",河南公共
-http://hiradio.win/dxxw.php?id=151
-#EXTINF:-1 group-title="地方",河南乡村
-http://hiradio.win/dxxw.php?id=152
-#EXTINF:-1 group-title="地方",河南国际
-http://hiradio.win/dxxw.php?id=153
 #EXTINF:-1 group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ce/CCTV-2_Logo.png",CCTV-2财经 (1080p)
@@ -45,6 +29,22 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-17-cn.png",CCTV-17农业农村 (1080p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
+#EXTINF:-1 group-title="地方",河南都市
+http://hiradio.win/dxxw.php?id=141
+#EXTINF:-1 group-title="地方",河南电视剧
+http://hiradio.win/dxxw.php?id=148
+#EXTINF:-1 group-title="地方",河南民生
+http://hiradio.win/dxxw.php?id=146
+#EXTINF:-1 group-title="地方",河南法治
+http://hiradio.win/dxxw.php?id=147
+#EXTINF:-1 group-title="地方",河南新闻
+http://hiradio.win/dxxw.php?id=149
+#EXTINF:-1 group-title="地方",河南公共
+http://hiradio.win/dxxw.php?id=151
+#EXTINF:-1 group-title="地方",河南乡村
+http://hiradio.win/dxxw.php?id=152
+#EXTINF:-1 group-title="地方",河南国际
+http://hiradio.win/dxxw.php?id=153
 #EXTINF:-1 group-title="地方",睛彩中原
 http://hiradio.win/dxxw.php?id=157
 #EXTINF:-1 group-title="地方",移动戏曲
@@ -373,17 +373,3 @@ http://hiradio.win/cdtv.php?id=45
 http://hiradio.win/cdtv.php?id=5
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv6.png",成都少儿
 http://hiradio.win/cdtv.php?id=6
-#EXTINF:-1 group-title="地方",江西都市
-http://hiradio.win/jxtv.php?id=jxtv2
-#EXTINF:-1 group-title="地方",江西经济生活
-http://hiradio.win/jxtv.php?id=jxtv3
-#EXTINF:-1 group-title="地方",江西影视旅游
-http://hiradio.win/jxtv.php?id=jxtv4
-#EXTINF:-1 group-title="地方",江西公共农业
-http://hiradio.win/jxtv.php?id=jxtv5
-#EXTINF:-1 group-title="地方",江西少儿
-http://hiradio.win/jxtv.php?id=jxtv6
-#EXTINF:-1 group-title="地方",江西新闻
-http://hiradio.win/jxtv.php?id=jxtv7
-#EXTINF:-1 group-title="地方",江西移动电视
-http://hiradio.win/jxtv.php?id=jxtv8

@@ -5,32 +5,44 @@
       "list": [
         {
           "name": "无敌放映厅",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/10240553rLYDUiHc.xs",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/10240553rROhfIIF.flv?uuid=",
           "type": "app://playDetail"
         },
         {
           "name": "恐怖影厅",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/3637726rQLDdfto7.flv?uuid=",
           "type": "app://playDetail"
         },
         {
           "name": "经典喜剧专场",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/9650887rIvtx6Y9r.xs",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/9650887rH9SjwFam.flv?uuid=",
           "type": "app://playDetail"
         },
         {
-          "name": "年度最佳电影",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/10395991rX4MRO7z.xs",
+          "name": "特辑电影院",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=",
           "type": "app://playDetail"
         },
         {
           "name": "24小时看不停",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://tx2play1.douyucdn.cn/live/8985415rkohgBRsS.xs",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/8985415rf7zHCNHX.flv?uuid=",
+          "type": "app://playDetail"
+        },
+        {
+          "name": "大片天天看",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/10240539r0hls0ef.flv?uuid=",
+          "type": "app://playDetail"
+        },
+        {
+          "name": "年度电影",
+          "pic": "https://imgpub.chuangkit.com/materials/2021/12/18/7ff10ed7-82ba-4234-b76d-64373dca66bc?x-oss-process=image/resize,w_200/format,webp",
+          "url": "https://akm-tct.douyucdn.cn/live/10395991rbishH11.flv?uuid=",
           "type": "app://playDetail"
         }
       ]
