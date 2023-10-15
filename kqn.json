@@ -12,7 +12,7 @@
 "sites":
 [{
 "key":"douban",
-"name":"影视推荐---------失效反馈请到微信公众号：进恩影音工作室",
+"name":"男哥1015",
 "type":3,
 "api":"./js/doubanshuju.js",
 "ext":"./js/douban.js",
