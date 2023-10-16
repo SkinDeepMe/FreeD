@@ -14,7 +14,7 @@
     ],
     "warningText": "男哥1015",
     "sites": [
-         {"key": "dr_豆瓣","name":"「公众号（玉玉软件）」ㅤ官网:yyrj.xyz","type": 3,"api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://8.210.232.168/tv/box/js/douban.js"},
+         {"key": "dr_豆瓣","name":"男哥1015","type": 3,"api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://8.210.232.168/tv/box/js/douban.js"},
                   {"key": "新片热播","name": "🤟新片⚡️","type": 1,"api": "https://api.iku.cool/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0,"categories": ["电影","连续剧","动漫"]},
            {
       "key": "YGP",
